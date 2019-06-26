@@ -1,5 +1,5 @@
 # Unity3d-ArcBall
-Demo for demonstrating a technique like arc-ball controller use Unity3d.
+Demo for demonstrating an arc-ball controller like technique by using Unity3d.
 
 if you can read Chinese，visit my personal site to read more details about this tech。Or ignore this information if you can understand everything by reading my code.
 
